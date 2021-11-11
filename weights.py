@@ -5,6 +5,9 @@ unit = input("what type of unit? k - kg, l - lb \n")
 
 # 5 apples = 1kg
 
+# Refactoring code with the usage of a lambda expression.
+# Probably an overkill but it's cool to use one.
+
 div5 = lambda num: num / 5
 
 resp = None
