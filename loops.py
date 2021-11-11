@@ -25,7 +25,9 @@ distance = {
     
 print(distance['earth'])
 
+# type annotations
 def sum(a:int, b:int) -> int:
     return a+b
 
 print(sum(2,3))
+
