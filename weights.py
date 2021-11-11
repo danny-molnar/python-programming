@@ -1,3 +1,5 @@
+#! /Users/danny.molnar/.pyenv/shims/python
+
 amount = input("please add amount of apples: \n")
 unit = input("what type of unit? k - kg, l - lb \n")
 
@@ -13,3 +15,4 @@ elif unit == 'l':
     print(f"Weight is: {resp} lb")
 else:
     print("Wrong weight unit hs been given! Please rerun the script!")
+
