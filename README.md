@@ -1,3 +1,2 @@
-Okay, this is the readme.
-Bunch of Python files are in this repo.
+# This is a repo for my python programming files for the talent academy / week 02.
 
